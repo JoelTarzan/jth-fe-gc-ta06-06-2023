@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(238, 238, 238);
+}
+
+h1 {
+    color: dodgerblue;
+}
+
+.bi {
+    color: dodgerblue;
+}
+
+#textarea {
+    min-height: 200px;
+}
+
+.btn {
+    background-color: dodgerblue;
+    border: 0;
+}
