@@ -1,0 +1,99 @@
+/* ESTILOS GLOBALES */
+body {
+    background-image: url(./../img/18048.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* FILA DEL TITULO */
+#title-container {
+    height: 30vh;
+    color: white;
+}
+
+#title-container h2 {
+    margin-bottom: 2rem;
+}
+
+#title-container p {
+    margin-bottom: 2rem;
+}
+
+/* FILA DEL FORMULARIO */
+#form-container {
+    height: 40vh;
+}
+
+.form-title {
+    color: lightgray;
+    background-color: white;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.form-title-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.form-title-text h3 {
+    font-size: 35px;
+}
+
+.form-title-text p {
+    font-size: 20px;
+}
+
+.form-title-lock {
+    padding-top: 1rem;
+}
+
+.bi-lock-fill {
+    width: 60px;
+    color: lightgray;
+}
+
+.form-body {
+    background-color: lightgray;
+}
+
+.form-button {
+    background-color: aquamarine;
+    border: 0;
+    color: black;
+}
+
+/* FILA DE ABAJO */
+#bottom-container {
+    height: 30vh;
+    color: white;
+}
+
+.row-bottom-text {
+    display: flex;
+    justify-content: center;
+}
+
+.row-bottom-nets {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    color: rgb(190, 190, 190);
+}
+
+.net-container {
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: rgba(53, 53, 53, 0.726);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px;
+    width: fit-content;
+}
