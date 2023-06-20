@@ -1,0 +1,45 @@
+.navbar {
+    background-color: rgb(71, 152, 199);
+}
+
+.nav-link {
+    color: white;
+}
+
+.info-link {
+    color: black;
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: 700;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+#user-icon {
+    background-color: rgb(53, 115, 151);
+    border-left: 1px solid rgb(53, 115, 151);
+}
+
+#menu-button {
+    background-color: rgb(53, 115, 151);
+}
+
+.nav-menu {
+    border-left: 1px solid rgb(53, 115, 151);
+}
+
+.nav-menu:hover {
+    background-color: rgb(155, 155, 155);
+}
+
+.nav-item {
+    cursor: pointer;
+}
