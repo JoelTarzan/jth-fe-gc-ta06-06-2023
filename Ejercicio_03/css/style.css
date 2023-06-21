@@ -43,3 +43,12 @@
 .nav-item {
     cursor: pointer;
 }
+
+form {
+    position: relative;
+}
+
+#search-icon {
+    position: absolute;
+    right: 20px;
+}
